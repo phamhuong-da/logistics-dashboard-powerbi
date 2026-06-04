@@ -17,10 +17,10 @@ performance reporting.
 | 📊 | Dashboard Điều hành BGD 2025 | HTML Report | [**View Live →**](https://phamhuong-da.github.io/logistics-dashboard-powerbi/html-reports/bao_cao_tong_quat_BGD_v2.html) |
 | 📈 | Phân tích Vận hành Xuân Cương | HTML Report | [**View Live →**](https://phamhuong-da.github.io/logistics-dashboard-powerbi/html-reports/bao_cao_xuan_cuong_v2.html) |
 | 🖥️ | Phần mềm Báo cáo Vận hành | Web App Demo | [**View Demo →**](https://readdy.cc/preview/d2a3c6d8-3d02-45a1-8906-efbbe2f321a6/9985737/overview) |
-| 📄 | Lượt xe lưu bãi (Power BI) | PDF | [View →](reports/bao-cao-luot-xe-luu-bai.pdf) |
-| 📄 | Thời gian xe lưu bãi (Power BI) | PDF | [View →](reports/bao-cao-thoi-gian-xe.pdf) |
-| 📄 | Cửa khẩu số XNK (Power BI) | PDF | [View →](reports/bao-cao-cua-khau-so.pdf) |
-| 📄 | Hiệu quả kinh doanh (Power BI) | PDF | [View →](reports/bao-cao-hieu-qua-kinh-doanh.pdf) |
+| 📄 | Lượt xe lưu bãi (Power BI) | PDF | [View →](DASHBOARD/BÁO%20CÁO%20XE%20LƯU%20BÃI.pdf) |
+| 📄 | Hàng ghép (Power BI) | PDF | [View →](DASHBOARD/BÁO%20CÁO%20HÀNG%20GHÉP.pdf) |
+| 📄 | Cửa khẩu số XNK (Power BI) | PDF | [View →](DASHBOARD/BÁO%20CÁO%20CỬA%20KHẨU%20SỐ.pdf) |
+| 📄 | Hiệu quả kinh doanh (Power BI) | PDF | [View →](DASHBOARD/BÁO%20CÁO%20HIỆU%20QUẢ%20KINH%20DOANH.pdf) |
 
 ## 📌 Business Context
 
